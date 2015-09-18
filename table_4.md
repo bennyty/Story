@@ -1,1 +1,1 @@
-RCOS projects HW Server, StudyBuddy, PriorityQ
+RCOS projects HW Server, StudyBuddy, PriorityQ, Suggestr
